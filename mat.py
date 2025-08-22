@@ -18,6 +18,5 @@ plt.legend(
     borderpad=1.2,
     borderaxespad=1.5
 )
-plt.legend(labels=['poda sunii'])
 
 plt.show()
